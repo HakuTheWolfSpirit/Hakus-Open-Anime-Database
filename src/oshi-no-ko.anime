@@ -1,0 +1,11 @@
+@version "2.1"
+anime "oshi-no-ko" {
+  original_title = "推しの子"
+  
+  localized_titles {
+    en = "Oshi no Ko"
+    de = "Oshi no Ko: Mein Star"
+  }
+  
+  year = 2023
+}
