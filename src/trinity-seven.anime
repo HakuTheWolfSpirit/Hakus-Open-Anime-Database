@@ -1,0 +1,11 @@
+@version "2.1"
+anime "trinity-seven" {
+  original_title = "トリニティセブン"
+  
+  localized_titles {
+    en = "Trinity Seven"
+    de = "Trinity Seven"
+  }
+  
+  year = 2014
+}
