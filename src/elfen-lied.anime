@@ -1,0 +1,11 @@
+@version "2.1"
+anime "elfen-lied" {
+  original_title = "エルフェンリート"
+  
+  localized_titles {
+    en = "Elfen Lied"
+    de = "Elfen Lied"
+  }
+  
+  year = 2004
+}
