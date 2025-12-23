@@ -1,4 +1,5 @@
 @version "2.1"
 anime "bocchi-the-rock" {
-  original_title = "Bocchi the Rock!" 
+  original_title = "Bocchi the Rock!"
+  year = 2022
 }
