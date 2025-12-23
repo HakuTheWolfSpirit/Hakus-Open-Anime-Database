@@ -1,0 +1,11 @@
+@version "2.1"
+anime "lucky-star" {
+  original_title = "らき☆すた"
+  
+  localized_titles {
+    en = "Lucky Star"
+    de = "Lucky Star"
+  }
+  
+  year = 2007
+}
