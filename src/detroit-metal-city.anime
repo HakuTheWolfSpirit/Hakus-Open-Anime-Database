@@ -1,0 +1,11 @@
+@version "2.1"
+anime "detroit-metal-city" {
+  original_title = "デトロイト・メタル・シティ"
+  
+  localized_titles {
+    en = "Detroit Metal City"
+    de = "Detroit Metal City"
+  }
+  
+  year = 2008
+}
