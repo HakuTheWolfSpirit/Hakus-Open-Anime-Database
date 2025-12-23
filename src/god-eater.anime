@@ -1,0 +1,11 @@
+@version "2.1"
+anime "god-eater" {
+  original_title = "ゴッドイーター"
+  
+  localized_titles {
+    en = "God Eater"
+    de = "God Eater"
+  }
+
+  year = 2016  
+}
