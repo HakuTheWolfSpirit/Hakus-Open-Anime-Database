@@ -1,0 +1,11 @@
+@version "2.1"
+anime "helck" {
+  original_title = "ヘルク"
+  
+  localized_titles {
+    en = "Helck"
+    de = "Helck"
+  }
+  
+  year = 2023
+}
