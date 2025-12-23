@@ -1,0 +1,11 @@
+@version "2.1"
+anime "k" {
+  original_title = "K"
+  
+  localized_titles {
+    en = "K"
+    de = "K"
+  }
+  
+  year = 2012
+}
