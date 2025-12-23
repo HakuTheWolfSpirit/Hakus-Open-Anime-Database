@@ -1,0 +1,11 @@
+@version "2.1"
+anime "i-want-to-eat-your-pancreas" {
+  original_title = "君の膵臓をたべたい"
+  
+  localized_titles {
+    en = "I Want to Eat Your Pancreas"
+    de = "I Want to Eat Your Pancreas"
+  }
+  
+  year = 2018
+}
