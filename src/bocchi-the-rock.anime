@@ -2,4 +2,104 @@
 anime "bocchi-the-rock" {
   original_title = "Bocchi the Rock!"
   year = 2022
+
+  season "1" {
+    original_title = "S01"
+
+    episode "korogaru-bocchi" {
+      original_title = "転がるぼっち"
+      localized_titles {
+        en = "Lonely Rolling Bocchi"
+        de = "Rolling Bocchi"
+      }
+    }
+
+    episode "mata-ashita" {
+      original_title = "また明日"
+      localized_titles {
+        en = "See You Tomorrow"
+        de = "Bis morgen"
+      }
+    }
+
+    episode "hase-sanzu" {
+      original_title = "馳せサンズ"
+      localized_titles {
+        en = "Be Right There"
+        de = "Eilige Suche"
+      }
+    }
+
+    episode "jumping-girls" {
+      original_title = "ジャンピングガール(ズ)"
+      localized_titles {
+        en = "Jumping Girl(s)"
+        de = "Jumping Girl(s)"
+      }
+    }
+
+    episode "tobenai-sakana" {
+      original_title = "飛べない魚"
+      localized_titles {
+        en = "Flightless Fish"
+        de = "Flugunfähiger Fisch"
+      }
+    }
+
+    episode "hakkei" {
+      original_title = "八景"
+      localized_titles {
+        en = "Eight Views"
+        de = "Acht Ansichten"
+      }
+    }
+
+    episode "kimi-no-uchi-made" {
+      original_title = "君の家まで"
+      localized_titles {
+        en = "To Your House"
+        de = "Zu dir nach Hause"
+      }
+    }
+
+    episode "bocchi-the-rock" {
+      original_title = "ぼっち・ざ・ろっく"
+      localized_titles {
+        en = "Bocchi the Rock"
+        de = "Bocchi the Rock"
+      }
+    }
+
+    episode "enoshima-escar" {
+      original_title = "江ノ島エスカー"
+      localized_titles {
+        en = "Enoshima Escar"
+        de = "Enoshima Escar"
+      }
+    }
+
+    episode "after-dark" {
+      original_title = "アフターダーク"
+      localized_titles {
+        en = "After Dark"
+        de = "After Dark"
+      }
+    }
+
+    episode "juunishinhou-no-yuukei" {
+      original_title = "十二進法の夕景"
+      localized_titles {
+        en = "Duodecimal Sunset"
+        de = "Der Abend des Duodezimalsystems"
+      }
+    }
+
+    episode "kimi-ni-asa-ga-furu" {
+      original_title = "君に朝が降る"
+      localized_titles {
+        en = "Morning Light Falls on You"
+        de = "Das Morgenlicht fällt auf dich"
+      }
+    }
+  }
 }
